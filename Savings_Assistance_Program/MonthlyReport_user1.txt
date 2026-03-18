@@ -1,0 +1,8 @@
+===== MONTHLY REPORT =====
+
+Username: user1
+Current Balance: ?111800.0
+
+===== TRANSACTION HISTORY =====
+
+No transactions this month.
